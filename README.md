@@ -2,7 +2,7 @@
 A Verilog-based Traffic Light Controller using a Moore Finite State Machine. This design features an integrated countdown timer to manage transitions between Red (25s), Green (30s), and Yellow (6s) states. A clean example of synchronous sequential logic and parameterized RTL design for hardware synthesis.
 
 <div align="center">
-  <img src="PASTE_YOUR_IMAGE_URL_HERE?raw=true" width="500">
+  <img src="https://github.com/abhijith-d-1/Traffic-Light-Controller/blob/514b2d26765d1c068c6bbea72b8dbc7804be77b3/State_diagram.jpg?raw=true" width="500">
 </div>
 
 ## Technical Specifications
